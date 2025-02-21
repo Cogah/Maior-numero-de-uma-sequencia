@@ -25,6 +25,6 @@ int main(int argc, char *argv[]) {
 		}
 	}
 
-	printf("\nO maior numero dessa sequwncia e %d\n", aux);
+	printf("\nO maior numero dessa sequencia e %d\n", aux);
 	return 0;
 }
